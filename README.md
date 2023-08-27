@@ -10,3 +10,6 @@ If you want to know, the actual project was made and published on Kaggle, you ca
         https://www.kaggle.com/code/nitishmishra05/eda-indian-startups-fundings
 
  Thank You !
+
+
+_If you want to get the data for your project, get it from the Kaggle link above or get it from this GIT_
